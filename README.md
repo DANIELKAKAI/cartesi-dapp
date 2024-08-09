@@ -1,6 +1,6 @@
 # TX Counter
 
-A Cartes Dapp for counts transactions per sender then genrates notices and reports for the data.
+A Cartes Dapp for counts transactions per sender then generates notices and reports for the data.
 
 ## Installation instructions
 
